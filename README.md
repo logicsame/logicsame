@@ -119,6 +119,3 @@
   <i>"The goal is to turn data into information, and information into insight." - Carly Fiorina</i>
 </p>
 
-<p align="center">
-  <img src="https://forthebadge.com/images/badges/powered-by-ai.svg" alt="Powered by AI">
-</p>
