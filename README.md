@@ -1,6 +1,6 @@
 <h1 align="center">
   <img src="https://media.giphy.com/media/l3vR4yk0X20KimqJ2/giphy.gif" width="60">
-  Hakim's AI & Data Science Hub
+  Hakim's AI & Data Science Lab
   <img src="https://media.giphy.com/media/l3vR4yk0X20KimqJ2/giphy.gif" width="60">
 </h1>
 
