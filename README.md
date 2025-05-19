@@ -1,18 +1,8 @@
-<h1 align="center">
-  <img src="https://media.giphy.com/media/l3vR4yk0X20KimqJ2/giphy.gif" width="60">
-  Hakim's AI & Data Science Lab
-  <img src="https://media.giphy.com/media/l3vR4yk0X20KimqJ2/giphy.gif" width="60">
-</h1>
-
-<p align="center">
-  <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" alt="About Me GIF" width="180px">
-</p>
-
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=FF0000&center=true&vCenter=true&random=false&width=800&lines=AI+Engineer+%7C+MLOps+Specialist+%7C+Kaggle+Master;Architecting+Cutting-Edge+AI+Solutions;Optimizing+ML+Pipelines+for+Production;Leveraging+Data+to+Drive+Intelligent+Systems;Continuous+Learning+in+the+Ever-Evolving+AI+Landscape" alt="Typing SVG" /></a>
 </p>
 
-<h2 align="center">🧠 AI & Data Science Arsenal</h2>
+<h2 align="center">🧠 AI & Data Science Framework</h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
@@ -118,4 +108,3 @@
 <p align="center">
   <i>"The goal is to turn data into information, and information into insight." - Carly Fiorina</i>
 </p>
-
